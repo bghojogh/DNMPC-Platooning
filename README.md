@@ -11,3 +11,5 @@ This is the code for the following project whose paper is:
 This project is an extension of the following paper to dynamic cut-in/cut-out maneuvers:
 
 - Yang Zheng, Shengbo Eben Li, Keqiang Li, Francesco Borrelli, J. Karl Hedrick. "Distributed model predictive control for heterogeneous vehicle platoons under unidirectional topologies." IEEE Transactions on Control Systems Technology 25, no. 3 (2016): 899-910.
+
+This project/code is worked on an existing code of the above paper in the following link: https://github.com/zhengy09/DMPC_for_platoons
